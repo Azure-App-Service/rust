@@ -1,0 +1,2 @@
+init_container.sh eol=lf
+Cargo.toml eol=lf

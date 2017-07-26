@@ -1,0 +1,11 @@
+[package]
+name = "defaulthomeapp"
+version = "0.1.0"
+authors = ["Azure App Services Container Images <appsvc-images@microsoft.com>"]
+exclude = [".gitignore"]
+description = "A simple Rust based app for App Service on Linux"
+
+[dependencies]
+rustful = "0.9"
+log = "*"
+env_logger = "*"
